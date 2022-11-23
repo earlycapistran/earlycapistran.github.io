@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+body {
+    font: 16px/1.5 "Open Sans";
+    font-weight: 300;
+}
+
+h1, h2, h3 {
+    color: #8c1515;
+}
+
+h2 {
+    font-weight: 500;
+}
+
+a  {
+    color: #407F7F;
+    font-weight: 500;
+}

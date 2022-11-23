@@ -1,0 +1,26 @@
+# Basic Information 
+title: Michelle María Early Capistrán
+position: Postdoctoral Scholar
+affiliation: Stanford University
+email: earlyc (at) stanford.edu
+
+# Theme
+remote_theme: yaoyao-liu/minimal-light
+
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: early capistrán, ethnography, marine science, sea turtles, stanford
+description: Michelle María Early Capistrán's personal website
+canonical: https://earlycapistran.github.io
+
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/citations?user=-HMc5wIAAAAJ&hl=es&inst=5746887945952177237&oi=ao
+github_link: https://github.com/earlycapistran
+linkedin: https://www.linkedin.com/in/earlycapistran/
+
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./profile.jpg
+#favicon: ./assets/img/favicon.png
+#favicon_dark: ./assets/img/favicon-dark.png
