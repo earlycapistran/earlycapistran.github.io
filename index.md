@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-![](https://github.com/earlycapistran/earlycapistran.github.io/blob/main/assets/LinkedIn%20Banner.png)
+{% include image.html file="LinkedIn Banneer.png" url="https://github.com/earlycapistran/earlycapistran.github.io/blob/main/assets/images/LinkedIn%20Banner.png" alt="Banneer" caption="This is a banner" %}
 
 [Español](./index_esp.md)
 
