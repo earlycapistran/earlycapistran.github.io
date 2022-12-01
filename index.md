@@ -2,6 +2,8 @@
 layout: homepage
 ---
 
+![](https://github.com/earlycapistran/earlycapistran.github.io/blob/main/assets/LinkedIn%20Banner.png)
+
 [Español](./index_esp.md)
 
 ## About Me
