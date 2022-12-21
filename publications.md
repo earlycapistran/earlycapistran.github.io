@@ -11,8 +11,8 @@ All of my peer-reviewed publications are Open Access or self-archived in accorda
 **Early-Capistrán, M.-M.**, Solana-Arellano, E., Abreu-Grobois, F. A., Narchi, N. E., Garibay-Melo, G., Seminoff, J. A., & Saenz-Arroyo, A. (2020). [Quantifying local ecological knowledge to model historical abundance of long-lived, heavily-exploited fauna.](https://doi.org/10.7717/peerj.9494){:target="\_blank"} *PeerJ*, 8 e9494.
 [[Code](10.7717/peerj.9494/supp-16){:target="\_blank"}]
 
-**Early-Capistrán, M.-M.**, Sáenz-Arroyo, A., Cardoso-Mohedano, J.-G., Garibay-Melo, G., Peckham, S. H., & Koch, V. [Reconstructing 290 years of a data-poor fishery through ethnographic and archival research: The East Pacific green turtle (*Chelonia mydas*) in Baja California, Mexico.](https://earlycapistran.github.io/blob/main/assets/download/earlycapistranetal_2018_manuscript.pdf){:target="\_blank"} (2018). *Fish and Fisheries*, 19(1), 57-77.\
-[Supporting Information](https://earlycapistran.github.io/blob/main/assets/download/earlycapistranetal_2018_supp_info.pdf){:target="\_blank"}
+**Early-Capistrán, M.-M.**, Sáenz-Arroyo, A., Cardoso-Mohedano, J.-G., Garibay-Melo, G., Peckham, S. H., & Koch, V. [Reconstructing 290 years of a data-poor fishery through ethnographic and archival research: The East Pacific green turtle (*Chelonia mydas*) in Baja California, Mexico.](https://earlycapistran.github.io/assets/download/earlycapistranetal_2018_manuscript.pdf){:target="\_blank"} (2018). *Fish and Fisheries*, 19(1), 57-77.\
+[Supporting Information](https://earlycapistran.github.io/assets/download/earlycapistranetal_2018_supp_info.pdf){:target="\_blank"}
 
 Narchi,  N.E.,  Cariño, M.,  Mesa-Jurado, M.A.,  Espinoza, A.,  Olivos, A., **Early Capistrán, M.M.**, et al. (2018). [El CoLaboratorio de Oceanografía Social: espacio plural para la conservación integral de los mares y las sociedades costeras. (The CoLaboratory of Social Oceanography: a pluralistic space for the integrative conservation of seas and coastal societes)](https://www.scielo.org.mx/scielo.php?pid=S2007-65762018000300285&script=sci_abstract){:target="\_blank"}. *Sociedad y Ambiente*,  18(7), 285–301.
 
