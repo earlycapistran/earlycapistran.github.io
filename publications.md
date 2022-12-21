@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-All of my peer-reviewed publications are Open Access or self-archived in accordance with Open Access policies. Please feel free to contact me me if you have any trouble accessing materials! 
+All of my peer-reviewed publications are Open Access or self-archived in accordance with Open Access policies. **Please feel free to contact me (earlyc [at] stanford [dot] edu) if you need a PDF or have any trouble accessing materials!** 
 
 ## Articles
 **Early‐Capistrán, M. M.**, Solana‐Arellano, E., Abreu‐Grobois, F. A., Garibay‐Melo, G., Seminoff, J. A., Sáenz‐Arroyo, A., & Narchi, N. E. (2022). [Integrating local ecological knowledge, ecological monitoring, and computer simulation to evaluate conservation outcomes](https://doi.org/10.1111/conl.12921){:target="\_blank"}. *Conservation Letters.*\
